@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="description" content="Hello in Html Tutorial"/>
+        <!--[if lt IE 9]>
+            <script src="html5shiv.js"></script>
+        <![endif]-->
+        <title>Page Title</title>
+        <link rel="icon" href="icon.png">
+    </head>
+
+    <body>
+          <!-- 
+                MP4 = MPEG 4 files with H264 video codec and AAC audio codec
+                WebM = WebM files with VP8 video codec and Vorbis audio codec
+                Ogg = Ogg files with Theora video codec and Vorbis audio codec
+          -->
+
+            <video width="320" height="240" controls>
+                   <source src="movie.mp4" type="video/mp4">
+                   Your browser does not support the video tag.
+             </video>
+            <br>
+            <video width="320" height="240" controls autoplay="autoplay">
+                    <source src="movie.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+              </video>
+             <br>
+             <video width="320" height="240" controls autoplay="autoplay" loop="loop">
+                    <source src="movie.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+              </video>
+             <br>
+             <video width="320" height="240" controls muted="muted">
+                    <source src="movie.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+              </video>
+             <br>
+             <video width="320" height="240" controls poster="icon.png">
+                    <source src="movie.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+              </video>
+             <br>
+
+    </body>
+
+    
+</html>
