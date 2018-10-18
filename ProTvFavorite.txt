@@ -1,0 +1,480 @@
+{
+    "result": [
+        {
+            "ProTvCatagory": {
+                "ProTvCategoryChannels": [],
+                "ProTvCategoryID": 1,
+                "ProTvCategoryNameEN": "All",
+                "ProTvCategoryNameAR": null,
+                "Status": null
+            }
+        },
+        {
+            "ProTvCatagory": {
+                "ProTvCategoryChannels": [
+                    {
+                        "Channel": {
+                            "PackageChannels": [],
+                            "ProTvCategoryChannels": [],
+                            "ChannelID": 111,
+                            "ChannelNameAr": null,
+                            "ChannelNameEn": "Lana TV",
+                            "ChannelDescription": null,
+                            "Type": "tv",
+                            "Quality": "HD",
+                            "Url": "udp://@225.2.0.79:1234",
+                            "UrlMobile": null,
+                            "IconUrl": "Lana TV.jpg",
+                            "IsEncrypted": 0,
+                            "Notes": null,
+                            "CreationDate": null,
+                            "CreationUser": null,
+                            "ModificationDate": null,
+                            "ModificationUser": null,
+                            "AdditionalInformation": null,
+                            "DeleteDate": null,
+                            "DeletionUser": null,
+                            "IsDeleted": false
+                        },
+                        "ProTvCategoryChannelID": 13,
+                        "ProTvCategoryID": 2,
+                        "ChannelID": 111
+                    },
+                    {
+                        "Channel": {
+                            "PackageChannels": [],
+                            "ProTvCategoryChannels": [],
+                            "ChannelID": 103,
+                            "ChannelNameAr": null,
+                            "ChannelNameEn": "Dubai One",
+                            "ChannelDescription": null,
+                            "Type": "tv",
+                            "Quality": "HD",
+                            "Url": "udp://@225.2.0.8:1234",
+                            "UrlMobile": null,
+                            "IconUrl": "Dubai One.jpg",
+                            "IsEncrypted": 0,
+                            "Notes": null,
+                            "CreationDate": null,
+                            "CreationUser": null,
+                            "ModificationDate": null,
+                            "ModificationUser": null,
+                            "AdditionalInformation": null,
+                            "DeleteDate": null,
+                            "DeletionUser": null,
+                            "IsDeleted": false
+                        },
+                        "ProTvCategoryChannelID": 14,
+                        "ProTvCategoryID": 2,
+                        "ChannelID": 103
+                    }
+                ],
+                "ProTvCategoryID": 2,
+                "ProTvCategoryNameEN": "Family",
+                "ProTvCategoryNameAR": null,
+                "Status": null
+            }
+        },
+        {
+            "ProTvCatagory": {
+                "ProTvCategoryChannels": [
+                    {
+                        "Channel": {
+                            "PackageChannels": [],
+                            "ProTvCategoryChannels": [],
+                            "ChannelID": 104,
+                            "ChannelNameAr": null,
+                            "ChannelNameEn": "Majed Kids HD",
+                            "ChannelDescription": null,
+                            "Type": "tv",
+                            "Quality": "HD",
+                            "Url": "udp://@225.2.0.67:1234",
+                            "UrlMobile": null,
+                            "IconUrl": "Majed Kids HD.jpg",
+                            "IsEncrypted": 0,
+                            "Notes": null,
+                            "CreationDate": null,
+                            "CreationUser": null,
+                            "ModificationDate": null,
+                            "ModificationUser": null,
+                            "AdditionalInformation": null,
+                            "DeleteDate": null,
+                            "DeletionUser": null,
+                            "IsDeleted": false
+                        },
+                        "ProTvCategoryChannelID": 11,
+                        "ProTvCategoryID": 3,
+                        "ChannelID": 104
+                    },
+                    {
+                        "Channel": {
+                            "PackageChannels": [],
+                            "ProTvCategoryChannels": [],
+                            "ChannelID": 97,
+                            "ChannelNameAr": null,
+                            "ChannelNameEn": "Cartoon Networks HD",
+                            "ChannelDescription": null,
+                            "Type": "tv",
+                            "Quality": "HD",
+                            "Url": "udp://@225.2.0.69:1234",
+                            "UrlMobile": null,
+                            "IconUrl": "Cartoon Networks HD.jpg",
+                            "IsEncrypted": 0,
+                            "Notes": null,
+                            "CreationDate": null,
+                            "CreationUser": null,
+                            "ModificationDate": null,
+                            "ModificationUser": null,
+                            "AdditionalInformation": null,
+                            "DeleteDate": null,
+                            "DeletionUser": null,
+                            "IsDeleted": false
+                        },
+                        "ProTvCategoryChannelID": 12,
+                        "ProTvCategoryID": 3,
+                        "ChannelID": 97
+                    }
+                ],
+                "ProTvCategoryID": 3,
+                "ProTvCategoryNameEN": "Children",
+                "ProTvCategoryNameAR": null,
+                "Status": null
+            }
+        },
+        {
+            "ProTvCatagory": {
+                "ProTvCategoryChannels": [],
+                "ProTvCategoryID": 4,
+                "ProTvCategoryNameEN": "Movies",
+                "ProTvCategoryNameAR": null,
+                "Status": null
+            }
+        },
+        {
+            "ProTvCatagory": {
+                "ProTvCategoryChannels": [],
+                "ProTvCategoryID": 5,
+                "ProTvCategoryNameEN": "News",
+                "ProTvCategoryNameAR": null,
+                "Status": null
+            }
+        },
+        {
+            "ProTvCatagory": {
+                "ProTvCategoryChannels": [
+                    {
+                        "Channel": {
+                            "PackageChannels": [],
+                            "ProTvCategoryChannels": [],
+                            "ChannelID": 1,
+                            "ChannelNameAr": null,
+                            "ChannelNameEn": "BeIN Sports HD 1",
+                            "ChannelDescription": null,
+                            "Type": "tv",
+                            "Quality": "HD",
+                            "Url": "udp://@225.2.0.131:1234",
+                            "UrlMobile": null,
+                            "IconUrl": "BeIN Sports HD1.jpg",
+                            "IsEncrypted": 0,
+                            "Notes": null,
+                            "CreationDate": null,
+                            "CreationUser": null,
+                            "ModificationDate": null,
+                            "ModificationUser": null,
+                            "AdditionalInformation": null,
+                            "DeleteDate": null,
+                            "DeletionUser": null,
+                            "IsDeleted": false
+                        },
+                        "ProTvCategoryChannelID": 1,
+                        "ProTvCategoryID": 6,
+                        "ChannelID": 1
+                    },
+                    {
+                        "Channel": {
+                            "PackageChannels": [],
+                            "ProTvCategoryChannels": [],
+                            "ChannelID": 2,
+                            "ChannelNameAr": null,
+                            "ChannelNameEn": "BeIN Sports HD 2",
+                            "ChannelDescription": null,
+                            "Type": "tv",
+                            "Quality": "HD",
+                            "Url": "udp://@225.2.0.132:1234",
+                            "UrlMobile": null,
+                            "IconUrl": "BeIN Sports HD 2.jpg",
+                            "IsEncrypted": 0,
+                            "Notes": null,
+                            "CreationDate": null,
+                            "CreationUser": null,
+                            "ModificationDate": null,
+                            "ModificationUser": null,
+                            "AdditionalInformation": null,
+                            "DeleteDate": null,
+                            "DeletionUser": null,
+                            "IsDeleted": false
+                        },
+                        "ProTvCategoryChannelID": 2,
+                        "ProTvCategoryID": 6,
+                        "ChannelID": 2
+                    },
+                    {
+                        "Channel": {
+                            "PackageChannels": [],
+                            "ProTvCategoryChannels": [],
+                            "ChannelID": 3,
+                            "ChannelNameAr": null,
+                            "ChannelNameEn": "BeIN Sports HD 3",
+                            "ChannelDescription": null,
+                            "Type": "tv",
+                            "Quality": "HD",
+                            "Url": "udp://@225.2.0.133:1234",
+                            "UrlMobile": null,
+                            "IconUrl": "BeIN Sports HD 3.jpg",
+                            "IsEncrypted": 0,
+                            "Notes": null,
+                            "CreationDate": null,
+                            "CreationUser": null,
+                            "ModificationDate": null,
+                            "ModificationUser": null,
+                            "AdditionalInformation": null,
+                            "DeleteDate": null,
+                            "DeletionUser": null,
+                            "IsDeleted": false
+                        },
+                        "ProTvCategoryChannelID": 3,
+                        "ProTvCategoryID": 6,
+                        "ChannelID": 3
+                    },
+                    {
+                        "Channel": {
+                            "PackageChannels": [],
+                            "ProTvCategoryChannels": [],
+                            "ChannelID": 4,
+                            "ChannelNameAr": null,
+                            "ChannelNameEn": "BeIN Sports HD 4",
+                            "ChannelDescription": null,
+                            "Type": "tv",
+                            "Quality": "HD",
+                            "Url": "udp://@225.2.0.134:1234",
+                            "UrlMobile": null,
+                            "IconUrl": "BeIN Sports HD 4.jpg",
+                            "IsEncrypted": 0,
+                            "Notes": null,
+                            "CreationDate": null,
+                            "CreationUser": null,
+                            "ModificationDate": null,
+                            "ModificationUser": null,
+                            "AdditionalInformation": null,
+                            "DeleteDate": null,
+                            "DeletionUser": null,
+                            "IsDeleted": false
+                        },
+                        "ProTvCategoryChannelID": 4,
+                        "ProTvCategoryID": 6,
+                        "ChannelID": 4
+                    },
+                    {
+                        "Channel": {
+                            "PackageChannels": [],
+                            "ProTvCategoryChannels": [],
+                            "ChannelID": 5,
+                            "ChannelNameAr": null,
+                            "ChannelNameEn": "BeIN Sports HD 5",
+                            "ChannelDescription": null,
+                            "Type": "tv",
+                            "Quality": "HD",
+                            "Url": "udp://@225.2.0.135:1234",
+                            "UrlMobile": null,
+                            "IconUrl": "BeIN Sports HD 5.jpg",
+                            "IsEncrypted": 0,
+                            "Notes": null,
+                            "CreationDate": null,
+                            "CreationUser": null,
+                            "ModificationDate": null,
+                            "ModificationUser": null,
+                            "AdditionalInformation": null,
+                            "DeleteDate": null,
+                            "DeletionUser": null,
+                            "IsDeleted": false
+                        },
+                        "ProTvCategoryChannelID": 5,
+                        "ProTvCategoryID": 6,
+                        "ChannelID": 5
+                    },
+                    {
+                        "Channel": {
+                            "PackageChannels": [],
+                            "ProTvCategoryChannels": [],
+                            "ChannelID": 6,
+                            "ChannelNameAr": null,
+                            "ChannelNameEn": "BeIN Sports HD 6",
+                            "ChannelDescription": null,
+                            "Type": "tv",
+                            "Quality": "HD",
+                            "Url": "udp://@225.2.0.136:1234",
+                            "UrlMobile": null,
+                            "IconUrl": "BeIN Sports HD 6.jpg",
+                            "IsEncrypted": 0,
+                            "Notes": null,
+                            "CreationDate": null,
+                            "CreationUser": null,
+                            "ModificationDate": null,
+                            "ModificationUser": null,
+                            "AdditionalInformation": null,
+                            "DeleteDate": null,
+                            "DeletionUser": null,
+                            "IsDeleted": false
+                        },
+                        "ProTvCategoryChannelID": 6,
+                        "ProTvCategoryID": 6,
+                        "ChannelID": 6
+                    },
+                    {
+                        "Channel": {
+                            "PackageChannels": [],
+                            "ProTvCategoryChannels": [],
+                            "ChannelID": 7,
+                            "ChannelNameAr": null,
+                            "ChannelNameEn": "BeIN Sports HD 7 ",
+                            "ChannelDescription": null,
+                            "Type": "tv",
+                            "Quality": "HD",
+                            "Url": "udp://@225.2.0.137:1234",
+                            "UrlMobile": null,
+                            "IconUrl": "BeIN Sports HD 7.jpg ",
+                            "IsEncrypted": 0,
+                            "Notes": null,
+                            "CreationDate": null,
+                            "CreationUser": null,
+                            "ModificationDate": null,
+                            "ModificationUser": null,
+                            "AdditionalInformation": null,
+                            "DeleteDate": null,
+                            "DeletionUser": null,
+                            "IsDeleted": false
+                        },
+                        "ProTvCategoryChannelID": 7,
+                        "ProTvCategoryID": 6,
+                        "ChannelID": 7
+                    },
+                    {
+                        "Channel": {
+                            "PackageChannels": [],
+                            "ProTvCategoryChannels": [],
+                            "ChannelID": 8,
+                            "ChannelNameAr": null,
+                            "ChannelNameEn": "BeIN Sports HD 8 ",
+                            "ChannelDescription": null,
+                            "Type": "tv",
+                            "Quality": "HD",
+                            "Url": "udp://@225.2.0.138:1234",
+                            "UrlMobile": null,
+                            "IconUrl": "BeIN Sports HD 8.jpg ",
+                            "IsEncrypted": 0,
+                            "Notes": null,
+                            "CreationDate": null,
+                            "CreationUser": null,
+                            "ModificationDate": null,
+                            "ModificationUser": null,
+                            "AdditionalInformation": null,
+                            "DeleteDate": null,
+                            "DeletionUser": null,
+                            "IsDeleted": false
+                        },
+                        "ProTvCategoryChannelID": 8,
+                        "ProTvCategoryID": 6,
+                        "ChannelID": 8
+                    },
+                    {
+                        "Channel": {
+                            "PackageChannels": [],
+                            "ProTvCategoryChannels": [],
+                            "ChannelID": 9,
+                            "ChannelNameAr": null,
+                            "ChannelNameEn": "BeIN Sports HD 9 ",
+                            "ChannelDescription": null,
+                            "Type": "tv",
+                            "Quality": "HD",
+                            "Url": "udp://@225.2.0.96:1234",
+                            "UrlMobile": null,
+                            "IconUrl": "BeIN Sports HD 9.jpg ",
+                            "IsEncrypted": 0,
+                            "Notes": null,
+                            "CreationDate": null,
+                            "CreationUser": null,
+                            "ModificationDate": null,
+                            "ModificationUser": null,
+                            "AdditionalInformation": null,
+                            "DeleteDate": null,
+                            "DeletionUser": null,
+                            "IsDeleted": false
+                        },
+                        "ProTvCategoryChannelID": 9,
+                        "ProTvCategoryID": 6,
+                        "ChannelID": 9
+                    },
+                    {
+                        "Channel": {
+                            "PackageChannels": [],
+                            "ProTvCategoryChannels": [],
+                            "ChannelID": 10,
+                            "ChannelNameAr": null,
+                            "ChannelNameEn": "BeIN Sports HD 10",
+                            "ChannelDescription": null,
+                            "Type": "tv",
+                            "Quality": "HD",
+                            "Url": "udp://@225.2.0.140:1234",
+                            "UrlMobile": null,
+                            "IconUrl": "BeIN Sports HD 10.jpg",
+                            "IsEncrypted": 0,
+                            "Notes": null,
+                            "CreationDate": null,
+                            "CreationUser": null,
+                            "ModificationDate": null,
+                            "ModificationUser": null,
+                            "AdditionalInformation": null,
+                            "DeleteDate": null,
+                            "DeletionUser": null,
+                            "IsDeleted": false
+                        },
+                        "ProTvCategoryChannelID": 10,
+                        "ProTvCategoryID": 6,
+                        "ChannelID": 10
+                    }
+                ],
+                "ProTvCategoryID": 6,
+                "ProTvCategoryNameEN": "Sport",
+                "ProTvCategoryNameAR": null,
+                "Status": null
+            }
+        },
+        {
+            "ProTvCatagory": {
+                "ProTvCategoryChannels": [],
+                "ProTvCategoryID": 7,
+                "ProTvCategoryNameEN": "Documantry",
+                "ProTvCategoryNameAR": null,
+                "Status": null
+            }
+        },
+        {
+            "ProTvCatagory": {
+                "ProTvCategoryChannels": [],
+                "ProTvCategoryID": 8,
+                "ProTvCategoryNameEN": "Music",
+                "ProTvCategoryNameAR": null,
+                "Status": null
+            }
+        },
+        {
+            "ProTvCatagory": {
+                "ProTvCategoryChannels": [],
+                "ProTvCategoryID": 9,
+                "ProTvCategoryNameEN": "LifeStyle",
+                "ProTvCategoryNameAR": null,
+                "Status": null
+            }
+        }
+    ]
+}
